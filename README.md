@@ -10,4 +10,4 @@ lab 4 - sort columns of a table with JavaScript
 
 lab 5 - sliding desktop with jQuery
 
-lab 6 - database requests (inserts,deletes,updates,filters) over client-server using PHP,JavaScript,Ajax and Xammp
+lab 6 - database requests (inserts,deletes,updates,filters) over client-server using PHP, JavaScript, Ajax and Xammp
